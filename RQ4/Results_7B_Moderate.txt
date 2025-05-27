@@ -1,0 +1,33 @@
+deepseek-r1:7b
+
+100 Rows
+📊 BENCHMARK SUMMARY
+Model Used: deepseek-r1:7b
+Total Rows Processed: 100
+Total Processing Time: 2891.97 seconds
+Average Time per Row: 28.9197 seconds
+Approximate Memory Usage Increase: 0.54 MB
+
+
+
+
+500 Rows
+
+📊 BENCHMARK SUMMARY
+Model Used: deepseek-r1:7b
+Total Rows Processed: 500
+Total Processing Time: 17160.86 seconds
+Average Time per Row: 34.3217 seconds
+Approximate Memory Usage Increase: 3.21 MB
+
+
+
+
+1000 Rows
+📊 BENCHMARK SUMMARY
+Model Used: deepseek-r1:7b
+Total Rows Processed: 1004
+Total Processing Time: 35811.14 seconds
+Average Time per Row: 35.6685 seconds
+Approximate Memory Usage Increase: 7.98 MB
+

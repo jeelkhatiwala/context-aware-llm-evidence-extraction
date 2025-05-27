@@ -1,0 +1,7 @@
+📊 BENCHMARK SUMMARY
+Model Used: gpt-4-turbo
+Total Rows Processed: 100
+Total Processing Time: 950.92 seconds
+Average Time per Row: 9.5092 seconds
+Approximate Memory Usage Increase: 0.00 MB
+Total Cost: $1.2407

@@ -1,0 +1,63 @@
+gpt-4-turbo
+100 Rows
+Model Used: gpt-4-turbo
+Total Rows Processed: 100
+Total Processing Time: 1120.51 seconds
+Average Time per Row: 11.2051 seconds
+Approximate Memory Usage Increase: 0.52 MB
+Total Cost: $1.2426
+
+
+500 Rows
+Model Used: gpt-4-turbo
+Total Rows Processed: 500
+Total Processing Time: 4506.83 seconds
+Average Time per Row: 9.0137 seconds
+Approximate Memory Usage Increase: 0.26 MB
+Total Cost: $6.2186
+
+
+1000 Rows
+Model Used: gpt-4-turbo
+Total Rows Processed: 1004
+Total Processing Time: 10791.36 seconds
+Average Time per Row: 10.7484 seconds
+Approximate Memory Usage Increase: 5.40 MB
+Total Cost: $12.4393
+
+
+
+
+
+deepseek-r1:7b
+100 Rows
+📊 BENCHMARK SUMMARY
+Model Used: deepseek-r1:7b
+Total Rows Processed: 100
+Total Processing Time: 2891.97 seconds
+Average Time per Row: 28.9197 seconds
+Approximate Memory Usage Increase: 0.54 MB
+
+
+
+
+500 Rows
+
+📊 BENCHMARK SUMMARY
+Model Used: deepseek-r1:7b
+Total Rows Processed: 500
+Total Processing Time: 17160.86 seconds
+Average Time per Row: 34.3217 seconds
+Approximate Memory Usage Increase: 3.21 MB
+
+
+
+
+1000 Rows
+📊 BENCHMARK SUMMARY
+Model Used: deepseek-r1:7b
+Total Rows Processed: 1004
+Total Processing Time: 35811.14 seconds
+Average Time per Row: 35.6685 seconds
+Approximate Memory Usage Increase: 7.98 MB
+
