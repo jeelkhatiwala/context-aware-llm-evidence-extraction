@@ -34,9 +34,9 @@ Each folder includes:
 
 ## Key Research Goals
 
-| RQ      | Focus                                                                                 |
-| ------- | ------------------------------------------------------------------------------------- |
-| **RQ1** | Does using context-aware record representations improve evidence extraction accuracy? |
-| **RQ2** | Is the method generalizable across different apps and schemas?                        |
-| **RQ3** | Which context component (schema, metadata, raw values) matters most?                  |
-| **RQ4** | Can the method scale with increasing data size and schema complexity?                 |
+| RQ      | Focus                                                                                                                                  |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **RQ1** | Does the context-aware record representation improve the accuracy of evidence entity extraction from SQLite databases when using LLMs? |
+| **RQ2** | How generalizable is the context-aware extraction method across different mobile applications and database schemas?                    |
+| **RQ3** | Which Components of the Context (Metadata vs. Schema Attributes) Contribute Most to the Accuracy of Evidence Extraction                |
+| **RQ4** | How Does the Context-Aware LLM Extraction Method Scale with Increasing Database Size and Complexity in Forensic Investigations?        |
